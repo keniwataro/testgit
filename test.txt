@@ -2,3 +2,4 @@ testlocal
 リモートコミット
 
 testadd
+リモートで書き換えた
